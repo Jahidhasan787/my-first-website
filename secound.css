@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 26px;
+}
+body{
+background-image: linear-gradient(#B8E7FA,#B8E7FA);
+}
+ .header-content{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    /* margin:20px 0px; */
+    padding: 24px ;
+    border: 2px solid red;
+    
+ }
+span{
+    color: #FFA500;
+}
+.btn{
+    background-image: linear-gradient(to right,#FFA500, #ffd447);
+    border: 1px solid yellow;
+    border-radius: 10px;
+    padding: 10px;
+    opacity: 80%;
+    font-size: 20px;
+}
+
+p{
+    padding: 20px ;
+}
