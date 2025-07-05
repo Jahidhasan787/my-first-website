@@ -30,3 +30,13 @@ span{
 p{
     padding: 20px ;
 }
+#connect{
+    border: 2px solid red;
+    padding: 40px 60px;
+    margin: 100px auto;
+    background-color: white;
+    display: flex;
+    height: 592px;
+    width: 1260px;
+    
+}
