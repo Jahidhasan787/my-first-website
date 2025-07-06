@@ -1,28 +1,33 @@
-*{
+* {
     margin: 0;
     padding: 0;
     font-size: 26px;
-    font-family:Poppins;
+    font-family: Poppins;
 }
-body{
-background-image: linear-gradient(#B8E7FA,#B8E7FA);
+
+body {
+    background-image: linear-gradient(#B8E7FA, #B8E7FA);
 }
- .header-content{
+
+.header-content {
     background-color: white;
     display: flex;
     justify-content: space-between;
-    padding: 24px ;
+    padding: 24px;
 
- }
- .h1-tag{
+}
+
+.h1-tag {
     gap: 30px;
     margin-left: 50px;
- }
-span{
+}
+
+span {
     color: #FFA500;
 }
-.btn{
-    background-image: linear-gradient(to right,#FFA500, #ffd447);
+
+.btn {
+    background-image: linear-gradient(to right, #FFA500, #ffd447);
     border: 1px solid yellow;
     border-radius: 10px;
     padding: 10px;
@@ -31,16 +36,18 @@ span{
     margin-right: 50px;
 }
 
-p,.discuss-p{
-    padding: 20px ;
+p,
+.discuss-p {
+    padding: 20px;
     opacity: 70%;
     font-size: 18px;
-    height: 52px ;
+    height: 52px;
     width: 852px;
     margin: 20px auto;
-     
+
 }
-#connect{
+
+#connect {
     border-radius: 16px;
     padding: 40px 60px;
     margin: 100px auto;
@@ -49,25 +56,27 @@ p,.discuss-p{
     width: 1260px;
 
 }
-.connect-content{
+
+.connect-content {
     text-align: center;
 }
 
-.connect-image{
+.connect-image {
     text-align: center;
     margin-bottom: 32px;
 
 }
-h2{
+
+h2 {
     font-size: 48px;
 }
 
-.heading-content{
+.heading-content {
     text-align: center;
     margin-bottom: 20px;
 }
 
-#discuss{
+#discuss {
     background-color: white;
     border-radius: 16px;
     padding: 48px;
@@ -78,60 +87,64 @@ h2{
     justify-content: space-between;
 
 }
-.discuss-content{
-height: 170px;
-width: 725px;
-text-align: left;
-padding-top: 108px;
-margin: 50px;
+
+.discuss-content {
+    height: 170px;
+    width: 725px;
+    text-align: left;
+    padding-top: 108px;
+    margin: 50px;
 
 }
 
-.discuss-p{
+.discuss-p {
     text-align: left;
     margin: 0px;
     padding: 0px;
     padding-top: 20px;
 }
-.discuss-image{
+
+.discuss-image {
     margin-top: 50px;
     margin-right: 278px;
-    background-size: cover;  
+    background-size: cover;
 }
 
-iframe{
-  margin: 20px 11%;
-  border-radius: 15px;
+iframe {
+    margin: 20px 11%;
+    border-radius: 15px;
 }
 
-.card-container{
+.card-container {
     display: flex;
     justify-content: space-between;
     margin: 30px;
     margin-bottom: 100px;
 }
-.card-heading{
+
+.card-heading {
     padding: 0px;
 }
 
-#card{
-    background-image: linear-gradient(#E6EDF9,#9DE5FF);
-    border-radius:16px ;
+#card {
+    background-image: linear-gradient(#E6EDF9, #9DE5FF);
+    border-radius: 16px;
     padding: 40px;
     margin: auto;
     gap: 32px;
-    height:154px ;
-    width:264px ;
+    height: 154px;
+    width: 264px;
 
 }
+
 /* .card-image{
     margin-bottom: 24px;
 } */
-.link{
+.link {
     font-size: small;
 }
 
-footer{
+footer {
     background-color: white;
     display: flex;
     justify-content: space-between;
@@ -139,6 +152,7 @@ footer{
     gap: 16px;
     font-size: small;
 }
-.footer-content{
+
+.footer-content {
     font-size: 20px;
 }
